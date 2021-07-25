@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fahim-Nilay
-- 👀 I’m interested in IT .
+- 👀 I’m interested in web developing .
 - 🌱 I’m currently learning programming and web developing.
 - 💞️ I’m looking to collaborate on a innovetive project.
 - 📫 To reach me, email: fahimnilay@gmail.com 
